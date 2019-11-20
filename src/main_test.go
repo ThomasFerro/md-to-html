@@ -17,6 +17,8 @@ Livrer cette valeur ne doit pas se faire au dépend de la qualité du code et de
 
 Ce sont ces idées qui me poussent à me former et appliquer des approches telles que le *Domain Driven Design* et le *Test Driven Development*. C'est aussi pour cela que je suis Agile dans mon travail et dans un processus d'amélioration continue.
 
+****
+
 ## Résumé technique
 
 - Connaissance approfondie du framework Vue.js: utilisation quotidienne depuis 2016 et formateur depuis 2019;
@@ -92,6 +94,8 @@ Cette phrase résume ce qui me passionne dans le développement d'applications. 
 Livrer cette valeur ne doit pas se faire au dépend de la qualité du code et des interactions. 
 
 Ce sont ces idées qui me poussent à me former et appliquer des approches telles que le *Domain Driven Design* et le *Test Driven Development*. C'est aussi pour cela que je suis Agile dans mon travail et dans un processus d'amélioration continue.
+
+<hr>
 
 <h2>Résumé technique</h2>
 

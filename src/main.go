@@ -2,6 +2,7 @@ package main
 
 import (
 	"github.com/ThomasFerro/md-to-html/headings"
+	"github.com/ThomasFerro/md-to-html/horizontalrules"
 	"github.com/ThomasFerro/md-to-html/linebreaks"
 )
 
@@ -9,5 +10,6 @@ import (
 func MarkdownToHTML(markdown string) string {
 	output := headings.Map(markdown)
 	output = linebreaks.Map(output)
+	output = horizontalrules.Map(output)
 	return output
 }

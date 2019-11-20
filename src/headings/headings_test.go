@@ -99,11 +99,35 @@ func TestHeadingLevelOneAlternateSyntax(t *testing.T) {
 	}
 }
 
+func TestHeadingLevelOneAlternateSyntaxIgnoredWhenNoTextIsPresent(t *testing.T) {
+	header := headings.Map(`Not a heading level 1
+
+===============`)
+
+	if header != `Not a heading level 1
+
+===============` {
+		t.Errorf("Alternate syntax for heading one is not converted, got \"%v\" instead", header)
+	}
+}
+
 func TestHeadingLevelTwoAlternateSyntax(t *testing.T) {
 	header := headings.Map(`Heading level 2
 ---------------`)
 
 	if header != "<h2>Heading level 2</h2>" {
+		t.Errorf("Alternate syntax for heading two is not converted, got \"%v\" instead", header)
+	}
+}
+
+func TestHeadingLevelTwoAlternateSyntaxIgnoredWhenNoTextIsPresent(t *testing.T) {
+	header := headings.Map(`Not a heading level 2
+
+---------------`)
+
+	if header != `Not a heading level 2
+
+---------------` {
 		t.Errorf("Alternate syntax for heading two is not converted, got \"%v\" instead", header)
 	}
 }

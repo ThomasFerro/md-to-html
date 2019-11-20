@@ -52,7 +52,7 @@ var alternateSyntaxHeadingValue = map[int]rune{
 func replaceAlternateSyntax(mdInput string, headingValue int) string {
 	headingAlternateSyntax := alternateSyntaxHeadingValue[headingValue]
 
-	regexpPattern := fmt.Sprintf("(?m)^(.*)\n%v+$", string(headingAlternateSyntax))
+	regexpPattern := fmt.Sprintf("(?m)^(.+)\n%v+$", string(headingAlternateSyntax))
 
 	headingRegexp := regexp.MustCompile(regexpPattern)
 
