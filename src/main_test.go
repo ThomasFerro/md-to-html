@@ -38,7 +38,7 @@ Il s'agissait ici d'une formation sur un an dont quatre mois de stage en entrepr
 
 Ce fût pour moi l'année de formation la plus bénéfique, me faisant sortir de ma zone de confort et me préparant efficacement pour mon insertion professionnelle.
 
-J'ai ensuite passé mes deux premières années professionnelles chez un client final: Archimed, devenu NeoLedge entre temps. Nous y développions une solution de GED (Gestion Électronique de Documents) ainsi qu'une suite d'outils gravitants autour de cette solution. 
+J'ai ensuite passé mes deux premières années professionnelles chez un client final: Archimed, devenu NeoLedge entre temps. Nous y développions une solution de GED (Gestion Électronique de Documents) ainsi qu'une suite d'outils gravitants autour de cette solution.  
 Ce fût ma première expérience Agile, sous le framework Scrum. J'y ai découvert les principes de l'Agilité ainsi que les différentes cérémonies liées au framework. 
 
 Niveau technique, le produit cœur est composé d'un Back-End en C# (.NET), d'une base de données MSSQL, de la configuration sous format XML et d'un Front-End retravaillé en Vue.js. C'est dans cette entreprise que j'ai commencé à travailler avec ce framework et je n'ai pas arrêté de l'utiliser à ce jour.
@@ -114,7 +114,7 @@ Il s'agissait ici d'une formation sur un an dont quatre mois de stage en entrepr
 
 Ce fût pour moi l'année de formation la plus bénéfique, me faisant sortir de ma zone de confort et me préparant efficacement pour mon insertion professionnelle.
 
-J'ai ensuite passé mes deux premières années professionnelles chez un client final: Archimed, devenu NeoLedge entre temps. Nous y développions une solution de GED (Gestion Électronique de Documents) ainsi qu'une suite d'outils gravitants autour de cette solution. 
+J'ai ensuite passé mes deux premières années professionnelles chez un client final: Archimed, devenu NeoLedge entre temps. Nous y développions une solution de GED (Gestion Électronique de Documents) ainsi qu'une suite d'outils gravitants autour de cette solution.<br>
 Ce fût ma première expérience Agile, sous le framework Scrum. J'y ai découvert les principes de l'Agilité ainsi que les différentes cérémonies liées au framework. 
 
 Niveau technique, le produit cœur est composé d'un Back-End en C# (.NET), d'une base de données MSSQL, de la configuration sous format XML et d'un Front-End retravaillé en Vue.js. C'est dans cette entreprise que j'ai commencé à travailler avec ce framework et je n'ai pas arrêté de l'utiliser à ce jour.
