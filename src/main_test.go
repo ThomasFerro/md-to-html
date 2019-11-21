@@ -147,8 +147,8 @@ Afin de tester certaines pratiques ou de nouvelles technologies, il m'arrive de 
 
 Le dernier en date me permet notamment de m'exercer sur les principes du *Domain Driven Design* et du langage *Go*. Il est question d'une plateforme de diffusion d'articles, décrite dans les billets suivants :
 
-- [Building a blogging application part 1 — The goals](https://medium.com/@t.ferro184/building-a-blogging-application-part-1-the-goals-b4a99847584); et
-- [Building a blogging application part 2 — The domains](https://medium.com/@t.ferro184/building-a-blogging-application-part-2-the-domains-af06b0e93d61)
+- <a href="https://medium.com/@t.ferro184/building-a-blogging-application-part-1-the-goals-b4a99847584" target="_blank">Building a blogging application part 1 — The goals</a>; et
+- <a href="https://medium.com/@t.ferro184/building-a-blogging-application-part-2-the-domains-af06b0e93d61" target="_blank">Building a blogging application part 2 — The domains</a>
 
 À court et moyen terme, je souhaite poursuivre les activités que je pratique et continuer de m'améliorer dans ces dernières. Donner de nouvelles formations lorsque l'occasion se présente, continuer ma veille technologique via des projets annexes et capitaliser sur mes acquis via des articles, des retours d'expériences et autres conférences.
 
@@ -160,7 +160,7 @@ Il s'agit pour moi, d'une part, d'une étape importante dans ma veille technolog
 
 D'autre part, cela me permet aussi d'expérimenter sur certains sujets que je ne maitrise pas, ou encore de faire un rapide retour sur des expériences diverses, afin d'en garder une trace.
 
-C'est notamment dans ce cadre que j'ai rédigé [un article sur le professionnalisme](https://medium.com/@t.ferro184/am-i-really-unprofessional-c36272c73f07) après avoir le "The Clean Coder : A Code of Conduct for Professional Programmers" par Robert C. Martin.
+C'est notamment dans ce cadre que j'ai rédigé <a href="https://medium.com/@t.ferro184/am-i-really-unprofessional-c36272c73f07" target="_blank">un article sur le professionnalisme</a> après avoir le "The Clean Coder : A Code of Conduct for Professional Programmers" par Robert C. Martin.
 ` {
 		t.Errorf("The markdown was not converted as expected, got this instead : %v", htmlOutput)
 	}
