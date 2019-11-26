@@ -83,6 +83,10 @@ Il s'agit pour moi, d'une part, d'une étape importante dans ma veille technolog
 D'autre part, cela me permet aussi d'expérimenter sur certains sujets que je ne maitrise pas, ou encore de faire un rapide retour sur des expériences diverses, afin d'en garder une trace.
 
 C'est notamment dans ce cadre que j'ai rédigé [un article sur le professionnalisme](https://medium.com/@t.ferro184/am-i-really-unprofessional-c36272c73f07) après avoir le "The Clean Coder : A Code of Conduct for Professional Programmers" par Robert C. Martin.
+
+![Decathlon IT Communities #4 - Mars 2019](/images/decathlon-it-communities-day-mars-2019.jpg)
+
+[![Decathlon IT Communities #4 - Mars 2019](/images/decathlon-it-communities-day-mars-2019.jpg)](/images/decathlon-it-communities-day-mars-2019.jpg)
 `)
 	expectedHtml := `<h1>Thomas Ferro - Développeur Web</h1>
 
@@ -160,6 +164,10 @@ Il s'agit pour moi, d'une part, d'une étape importante dans ma veille technolog
 D'autre part, cela me permet aussi d'expérimenter sur certains sujets que je ne maitrise pas, ou encore de faire un rapide retour sur des expériences diverses, afin d'en garder une trace.
 
 C'est notamment dans ce cadre que j'ai rédigé <a href="https://medium.com/@t.ferro184/am-i-really-unprofessional-c36272c73f07" target="_blank">un article sur le professionnalisme</a> après avoir le "The Clean Coder : A Code of Conduct for Professional Programmers" par Robert C. Martin.
+
+<img src="/images/decathlon-it-communities-day-mars-2019.jpg" alt="Decathlon IT Communities #4 - Mars 2019">
+
+<a href="/images/decathlon-it-communities-day-mars-2019.jpg" target="_blank"><img src="/images/decathlon-it-communities-day-mars-2019.jpg" alt="Decathlon IT Communities #4 - Mars 2019"></a>
 `
 
 	if htmlOutput != expectedHtml {
