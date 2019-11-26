@@ -21,12 +21,12 @@ Ce sont ces idées qui me poussent à me former et appliquer des approches telle
 
 ## Résumé technique
 
-- Connaissance approfondie du framework Vue.js: utilisation quotidienne depuis 2016 et formateur depuis 2019;
-- Bonne maîtrise des technologies Front-End de base: HTML, CSS et JavaScript jusqu'aux spécifications ES2018, pratiquées quotidiennement depuis 2016;
-- Maîtrise correcte du Java et de l'écosystème Spring : utilisation professionnelle depuis 2018
-- Grand intérêt pour les pratiques de Software Craftsmanship : nombreuses lectures, mises en pratique et présentations sur le sujet;
-- Grand intérêt pour la mouvance DevOps ainsi que pour les concepts et technologies gravitants autour (Git et GitOps, CI/CD, conteneurisation, orchestration, etc);
-- Connaissances basiques mais grand intérêt pour le Go: formation de deux jours en 2019 et projets personnels dans ce langage.
+- Connaissance approfondie du **framework Vue.js**: utilisation quotidienne depuis 2016 et formateur depuis 2019;
+- Bonne maîtrise des **technologies Front-End de base**: HTML, CSS et JavaScript jusqu'aux spécifications ES2018, pratiquées quotidiennement depuis 2016;
+- Maîtrise correcte du **Java et de l'écosystème Spring** : utilisation professionnelle depuis 2018
+- Grand intérêt pour les pratiques de **Software Craftsmanship** : nombreuses lectures, mises en pratique et présentations sur le sujet;
+- Grand intérêt pour la mouvance **DevOps** ainsi que pour les concepts et technologies gravitants autour (Git et GitOps, CI/CD, conteneurisation, orchestration, etc);
+- Connaissances basiques mais grand intérêt pour le **Go**: formation de deux jours en 2019 et projets personnels dans ce langage.
 
 ## Expériences et acquis
 
@@ -84,8 +84,7 @@ D'autre part, cela me permet aussi d'expérimenter sur certains sujets que je ne
 
 C'est notamment dans ce cadre que j'ai rédigé [un article sur le professionnalisme](https://medium.com/@t.ferro184/am-i-really-unprofessional-c36272c73f07) après avoir le "The Clean Coder : A Code of Conduct for Professional Programmers" par Robert C. Martin.
 `)
-
-	if htmlOutput != `<h1>Thomas Ferro - Développeur Web</h1>
+	expectedHtml := `<h1>Thomas Ferro - Développeur Web</h1>
 
 > Livrer de la valeur métier répondant aux besoins des utilisateurs. 
 
@@ -93,18 +92,18 @@ Cette phrase résume ce qui me passionne dans le développement d'applications. 
 
 Livrer cette valeur ne doit pas se faire au dépend de la qualité du code et des interactions. 
 
-Ce sont ces idées qui me poussent à me former et appliquer des approches telles que le *Domain Driven Design* et le *Test Driven Development*. C'est aussi pour cela que je suis Agile dans mon travail et dans un processus d'amélioration continue.
+Ce sont ces idées qui me poussent à me former et appliquer des approches telles que le <em>Domain Driven Design</em> et le <em>Test Driven Development</em>. C'est aussi pour cela que je suis Agile dans mon travail et dans un processus d'amélioration continue.
 
 <hr>
 
 <h2>Résumé technique</h2>
 
-- Connaissance approfondie du framework Vue.js: utilisation quotidienne depuis 2016 et formateur depuis 2019;
-- Bonne maîtrise des technologies Front-End de base: HTML, CSS et JavaScript jusqu'aux spécifications ES2018, pratiquées quotidiennement depuis 2016;
-- Maîtrise correcte du Java et de l'écosystème Spring : utilisation professionnelle depuis 2018
-- Grand intérêt pour les pratiques de Software Craftsmanship : nombreuses lectures, mises en pratique et présentations sur le sujet;
-- Grand intérêt pour la mouvance DevOps ainsi que pour les concepts et technologies gravitants autour (Git et GitOps, CI/CD, conteneurisation, orchestration, etc);
-- Connaissances basiques mais grand intérêt pour le Go: formation de deux jours en 2019 et projets personnels dans ce langage.
+- Connaissance approfondie du <strong>framework Vue.js</strong>: utilisation quotidienne depuis 2016 et formateur depuis 2019;
+- Bonne maîtrise des <strong>technologies Front-End de base</strong>: HTML, CSS et JavaScript jusqu'aux spécifications ES2018, pratiquées quotidiennement depuis 2016;
+- Maîtrise correcte du <strong>Java et de l'écosystème Spring</strong> : utilisation professionnelle depuis 2018
+- Grand intérêt pour les pratiques de <strong>Software Craftsmanship</strong> : nombreuses lectures, mises en pratique et présentations sur le sujet;
+- Grand intérêt pour la mouvance <strong>DevOps</strong> ainsi que pour les concepts et technologies gravitants autour (Git et GitOps, CI/CD, conteneurisation, orchestration, etc);
+- Connaissances basiques mais grand intérêt pour le <strong>Go</strong>: formation de deux jours en 2019 et projets personnels dans ce langage.
 
 <h2>Expériences et acquis</h2>
 
@@ -133,7 +132,7 @@ Ce choix fût principalement poussé par mon souhaite de découvrir plus de chal
 
 Je n'ai en aucun cas été déçu. Je me sens humainement et professionnellement grandi depuis mon arrivé.
 
-Pour l'aspect humain, il s'agit principalement de la découverte d'une tout autre facette de l'Agilité dans ma mission chez Decathlon. En effet, nous avons la chance d'être dans une équipe mise en place par un Product Owner qui ne *fait* pas de l'Agile, mais qui *est* Agile. L'Humain a donc une place prépondérante et nous sommes dans un contexte d'amélioration continue très plaisant. 
+Pour l'aspect humain, il s'agit principalement de la découverte d'une tout autre facette de l'Agilité dans ma mission chez Decathlon. En effet, nous avons la chance d'être dans une équipe mise en place par un Product Owner qui ne <em>fait</em> pas de l'Agile, mais qui <em>est</em> Agile. L'Humain a donc une place prépondérante et nous sommes dans un contexte d'amélioration continue très plaisant. 
 
 J'ai aussi particulièrement apprécié les ateliers Soft Skills et la formation au métier de formateur proposés par un collaborateur Symbol-it qui est aussi coach Agile.
 
@@ -145,7 +144,7 @@ Dans cette mission nous avons une stack technique qui se compose de plusieurs se
 
 Afin de tester certaines pratiques ou de nouvelles technologies, il m'arrive de mettre en place des projets annexes. Ces derniers n'ont pas pour but d'être complétés ni d'apporter une valeur particulière, mais servent de terrain de jeu. Je trouve en effet plus intéressant de mettre en pratique ce que l'on souhaite apprendre dans des situations réelles plutôt qu'en suivant simplement un tutoriel.
 
-Le dernier en date me permet notamment de m'exercer sur les principes du *Domain Driven Design* et du langage *Go*. Il est question d'une plateforme de diffusion d'articles, décrite dans les billets suivants :
+Le dernier en date me permet notamment de m'exercer sur les principes du <em>Domain Driven Design</em> et du langage <em>Go</em>. Il est question d'une plateforme de diffusion d'articles, décrite dans les billets suivants :
 
 - <a href="https://medium.com/@t.ferro184/building-a-blogging-application-part-1-the-goals-b4a99847584" target="_blank">Building a blogging application part 1 — The goals</a>; et
 - <a href="https://medium.com/@t.ferro184/building-a-blogging-application-part-2-the-domains-af06b0e93d61" target="_blank">Building a blogging application part 2 — The domains</a>
@@ -161,7 +160,9 @@ Il s'agit pour moi, d'une part, d'une étape importante dans ma veille technolog
 D'autre part, cela me permet aussi d'expérimenter sur certains sujets que je ne maitrise pas, ou encore de faire un rapide retour sur des expériences diverses, afin d'en garder une trace.
 
 C'est notamment dans ce cadre que j'ai rédigé <a href="https://medium.com/@t.ferro184/am-i-really-unprofessional-c36272c73f07" target="_blank">un article sur le professionnalisme</a> après avoir le "The Clean Coder : A Code of Conduct for Professional Programmers" par Robert C. Martin.
-` {
-		t.Errorf("The markdown was not converted as expected, got this instead : %v", htmlOutput)
+`
+
+	if htmlOutput != expectedHtml {
+		t.Errorf("The markdown was not converted as expected, got this instead : %v\n\nExpected: %v", htmlOutput, expectedHtml)
 	}
 }
